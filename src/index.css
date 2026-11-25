@@ -1,0 +1,8 @@
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { min-width: 320px; -webkit-text-size-adjust: 100%; }
+body { font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f3f5f4; color: #172e2b; -webkit-font-smoothing: antialiased; }
+button, input, select, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { touch-action: manipulation; }
+::selection { background: #b8edce; color: #153a2e; }
